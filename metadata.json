@@ -1,0 +1,12 @@
+{
+  "name": "Remix Gitas Academy - 3D Immersive Real-Time Learning OS",
+  "description": "Next-generation 3D immersive real-time learning platform featuring interactive spatial physics labs, live virtual classroom with video/screen share, curriculum modules, LMS locker, and toddler discovery pod.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
